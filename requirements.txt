@@ -1,3 +1,6 @@
 discord.py
 yt-dlp
-flask
+ffmpeg-python
+keep_alive
+python-dotenv
+Flask
